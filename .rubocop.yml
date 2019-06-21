@@ -1,0 +1,14 @@
+Layout/IndentationConsistency:
+  EnforcedStyle: rails
+
+Metrics/AbcSize:
+  Max: 20
+
+Metrics/LineLength:
+  Max: 120
+
+Metrics/MethodLength:
+  Max: 20
+
+Style/StringLiterals:
+  EnforcedStyle: "double_quotes"

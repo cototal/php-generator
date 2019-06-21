@@ -1,0 +1,5 @@
+name: A1
+type: class
+construct:
+  args:
+    - { type: string, name: sample }
